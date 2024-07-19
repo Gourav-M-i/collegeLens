@@ -14,8 +14,8 @@ const Footer = () => {
                 <li>Admissions</li>
                 <li>Colleges</li>
                 <li>Blog</li>
-                <li>Do not sell my personal information</li>
-                <li>Sitemap</li>
+                {/* <li>Do not sell my personal information</li>
+                <li>Sitemap</li> */}
             </div>
         </div>
     )
